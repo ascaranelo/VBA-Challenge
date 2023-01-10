@@ -1,3 +1,7 @@
+This script is dedicated to address the UofT Bootcamp Second Challenge. It was created by a person (author is AM Scaranelo) who never did coding before. The script uses a “plagiarism” of the excellent UofT instructor examples and ideas during class. The author wishes to acknowledge all classmates that helped her on slack with the suggestions. The macro is not perfect, and it may contain errors and bugs. Viewer discretion is advised when running in your machine in large files (big data) as it could crash it.![image](https://user-images.githubusercontent.com/120148170/211655729-aeb0caa6-bd4d-48f1-b7aa-3338f39e7c12.png)
+
+
+
 READ ME FILE part 3
 
 This is the last part, where I worked in the bonus section, which is to create additional output on the same spreadsheet, without success.
