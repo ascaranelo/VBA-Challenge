@@ -1,3 +1,25 @@
+READ ME FILE part 3
+
+This is the last part, where I worked in the bonus section, which is to create additional output on the same spreadsheet, without success.
+
+The initial script set headers. The declaration of integer and string were done. The many different stock tickers were stored in an array. Loops were used to iteration. To obtain yearly change and percentage calculations the first and the last rows were identified. Conditional formatting was used. Now, those outstanding calculations for the summary requested distributed by tickers was added and did not work.
+
+I created new columns/lines to express what could be a summary or something to express or demonstrate easily the biggest winners and losers of the year as per below. However, my macro has issues and did not work. It crashed excel too.
+1)	The words showing the “Greatest % Increase” on the line 2 of the column O
+2)	The words showing the “Greatest % Decrease” on the line 3 of the column O
+3)	The words showing the “Greatest % Total Volume” on the line 4 of the column O
+4)	The ticker symbol of the questions 1, 2, 3, on the respective lines of the column P
+5)	The Value of the questions 1,2, 3, on the respective lines of the column Q
+6)	The close price of the questions 1, 2, 3, on the respective lines of or the column F
+
+
+
+After running this VBA script, the user unfortunately would not be able to obtain in the same spreadsheet one output table summarizing the data distributed by stock ticker symbol. In addition, a focal region with the data Winners and Losers will not show up on the screen including their stock trading volumes as I had envision. The script will continue over and over to next spreadsheet with the same incomplete information. I hope this information can be useful to you. 
+As requested, a screen shot for each year of my results running the script on multi-year stock data is provided as PNG files.
+
+This script is dedicated to address the UofT Bootcamp Second Challenge. It was created by a person (author is AM Scaranelo) who never did coding before. The script uses a “plagiarism” of the excellent UofT instructor examples and ideas during class. The author wishes to acknowledge all classmates that helped her on slack with the suggestions. The macro is not perfect, and it may contain errors and bugs. Viewer discretion is advised when running in your machine and it crashed mine.
+
+
 READ ME FILE part 2
 
 The original xlsx files used to test the VBA script and the Stock Market Data are not going to be uploaded to github as all students and instructors have them.
